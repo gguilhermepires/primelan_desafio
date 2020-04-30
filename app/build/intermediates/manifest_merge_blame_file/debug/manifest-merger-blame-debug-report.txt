@@ -1,0 +1,59 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.desafio"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\guilherme\Desktop\desafio git\primelan_desafio\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\guilherme\Desktop\desafio git\primelan_desafio\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\guilherme\Desktop\desafio git\primelan_desafio\app\src\main\AndroidManifest.xml:5:5-79
+11-->C:\Users\guilherme\Desktop\desafio git\primelan_desafio\app\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\guilherme\Desktop\desafio git\primelan_desafio\app\src\main\AndroidManifest.xml:6:5-67
+12-->C:\Users\guilherme\Desktop\desafio git\primelan_desafio\app\src\main\AndroidManifest.xml:6:22-64
+13
+14    <application
+14-->C:\Users\guilherme\Desktop\desafio git\primelan_desafio\app\src\main\AndroidManifest.xml:8:5-26:19
+15        android:allowBackup="true"
+15-->C:\Users\guilherme\Desktop\desafio git\primelan_desafio\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.1.0] C:\Users\guilherme\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher_logo"
+18-->C:\Users\guilherme\Desktop\desafio git\primelan_desafio\app\src\main\AndroidManifest.xml:10:9-48
+19        android:label="@string/app_name"
+19-->C:\Users\guilherme\Desktop\desafio git\primelan_desafio\app\src\main\AndroidManifest.xml:11:9-41
+20        android:supportsRtl="true"
+20-->C:\Users\guilherme\Desktop\desafio git\primelan_desafio\app\src\main\AndroidManifest.xml:13:9-35
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->C:\Users\guilherme\Desktop\desafio git\primelan_desafio\app\src\main\AndroidManifest.xml:14:9-40
+23        <activity android:name="com.example.desafio.SplashScreenActivity" >
+23-->C:\Users\guilherme\Desktop\desafio git\primelan_desafio\app\src\main\AndroidManifest.xml:15:9-21:20
+23-->C:\Users\guilherme\Desktop\desafio git\primelan_desafio\app\src\main\AndroidManifest.xml:15:19-55
+24            <intent-filter>
+24-->C:\Users\guilherme\Desktop\desafio git\primelan_desafio\app\src\main\AndroidManifest.xml:17:13-20:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\Users\guilherme\Desktop\desafio git\primelan_desafio\app\src\main\AndroidManifest.xml:18:17-69
+25-->C:\Users\guilherme\Desktop\desafio git\primelan_desafio\app\src\main\AndroidManifest.xml:18:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\Users\guilherme\Desktop\desafio git\primelan_desafio\app\src\main\AndroidManifest.xml:19:17-77
+27-->C:\Users\guilherme\Desktop\desafio git\primelan_desafio\app\src\main\AndroidManifest.xml:19:27-74
+28            </intent-filter>
+29        </activity>
+30        <activity android:name="com.example.desafio.HomeActivity" />
+30-->C:\Users\guilherme\Desktop\desafio git\primelan_desafio\app\src\main\AndroidManifest.xml:22:9-50
+30-->C:\Users\guilherme\Desktop\desafio git\primelan_desafio\app\src\main\AndroidManifest.xml:22:19-47
+31        <activity android:name="com.example.desafio.MainActivity" >
+31-->C:\Users\guilherme\Desktop\desafio git\primelan_desafio\app\src\main\AndroidManifest.xml:23:9-25:20
+31-->C:\Users\guilherme\Desktop\desafio git\primelan_desafio\app\src\main\AndroidManifest.xml:23:19-47
+32        </activity>
+33    </application>
+34
+35</manifest>

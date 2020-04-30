@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Desafio</string>
+    <string name="bt_start">Entrar</string>
+    <string name="challenge">Faça um app Android básico em que a primeira tela contém um botão. Esse botão será clicável, ao clicar o app deve trazer as informações do subreddit e exibir em outra tela.  Na tela de exibição do conteúdo deve conter o título \"r/androiddev\" e uma lista com os títulos de todos tópicos (trazidos da API)</string>
+    <string name="challenge_title">Desafio Primelan</string>
+    <string name="msg_process_json">Não foi possível baixar os dados da internet</string>
+    <string name="splashScreen_title">Desafio</string>
+</resources>
