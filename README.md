@@ -12,7 +12,7 @@ Link para download e instalação do apk: https://drive.google.com/open?id=1BaeF
 ### O apk está na pasta raiz "aplicativo-desafio.apk"
 
 ### Telas do aplicativo
-<img src="https://github.com/gguilhermepires/primelan_desafio/blob/master/tela01.jpeg width="300" height="400" >
+<img src="https://github.com/gguilhermepires/primelan_desafio/blob/master/tela01.jpeg" width="300" height="400" >
 <hr>
 <img src="https://github.com/gguilhermepires/primelan_desafio/blob/master/tela02.jpeg"  width="300" height="400" >
 <hr>
